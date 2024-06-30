@@ -1,0 +1,8 @@
+{
+    "database": {
+        "url": "sqlite:///example.db"  # Update this URL to your database
+    },
+    "openai": {
+        "api_key": "your-openai-api-key"
+    }
+}

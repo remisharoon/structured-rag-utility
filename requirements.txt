@@ -1,0 +1,4 @@
+sqlalchemy
+openai
+psycopg2
+mysql-connector-python
